@@ -1,0 +1,9 @@
+Arduino:
+	Arus   = A3
+	Teg    = A2
+	LDR1   = A0
+	LDR2   = A1
+	PIR1   = 4
+	PIR2   = 5
+	Relay1 = 2
+	Relay2 = 3
