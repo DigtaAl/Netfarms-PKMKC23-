@@ -1,6 +1,6 @@
 # NetFarms: LoRa-Based Floating Cage Monitoring System for Grouper Aquaculture
 
-![Keramba Apung]([D:\Essay\&%20LKTI\&%20PKM\PKM\Keramba%20Apung\Keramba.jpg](http://www.uny.ac.id/sites/default/files/2023-08/WhatsApp%20Image%202023-08-29%20at%2015.06.42.jpeg))
+![Keramba Apung](https://github.com/DigtaAl/Netfarms-PKMKC23-/blob/master/Dokumen/Foto/IMG_20230930_154555.jpg)
 
 ## Background
 
